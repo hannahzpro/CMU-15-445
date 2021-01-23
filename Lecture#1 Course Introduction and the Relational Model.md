@@ -43,8 +43,11 @@
   生成一个由仅在第一个关系而未在第二个关系中出现的关系
   
 + PRODUCT ==(R x S).==
-**(CROSS JOIN)**
-生成所有可能的组合
+  **(CROSS JOIN)**
+
+  生成所有可能的组合
+
+  <img src="/Users/hannahzhang/Desktop/截屏2021-01-23下午5.32.54.png" alt="截屏2021-01-23下午5.32.54" style="zoom:50%;" />
 
 + JOIN ==(R ⋈ S).==
   **(NATURAL JOIN)**
